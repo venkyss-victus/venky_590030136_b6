@@ -18,7 +18,6 @@ Display the array before and after sorting.
     for (i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
-
     // Display array before sorting
     printf("\nArray before sorting:\n");
     for (i = 0; i < n; i++) {
